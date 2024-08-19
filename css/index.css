@@ -21,6 +21,7 @@
 }
 .head{
     background: var(--color-green);
+    padding-bottom: 120px;
 }
 .head-items{
     display: flex;
